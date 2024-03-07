@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">Interested in programming and cyber security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rr6c&label=Profile%20views&color=0e75b6&style=flat" alt="rr6c" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rr6c" alt="rr6c" /></a> </p>
 
@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rr6c&show_icons=true&locale=en" alt="rr6c" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rr6c&" alt="rr6c" /></p>
-
