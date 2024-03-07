@@ -10,4 +10,4 @@
 <a href="https://instagram.com/0y_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0y_j" height="30" width="40" /></a>
 <a href="https://discord.gg/i515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="i515" height="30" width="40" /></a>
 
-<h3>🎧 Spotify Playing</h3>
+<h3>🎧 Soundcloud Playing</h3>
