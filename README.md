@@ -9,9 +9,3 @@
 <p align="left">
 <a href="https://instagram.com/0y_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0y_j" height="30" width="40" /></a>
 <a href="https://discord.gg/i515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="i515" height="30" width="40" /></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rr6c&show_icons=true&locale=en&layout=compact" alt="rr6c" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rr6c&show_icons=true&locale=en" alt="rr6c" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rr6c&" alt="rr6c" /></p>
