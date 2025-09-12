@@ -14,5 +14,5 @@
 </p>
 
 
-🎧 Soundcloud Playing</h3>
+<h3 align="left">🎧 Soundcloud Playing</h3>
 <img src ="https://i.postimg.cc/FRHc2SFc/IMG-5175.webp">
